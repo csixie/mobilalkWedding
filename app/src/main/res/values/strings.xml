@@ -1,0 +1,93 @@
+<resources>
+
+
+    <string name="app_name">Esküvő dekoráció webshop</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="email">Email cím</string>
+    <string name="confirm_password">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Lakcím</string>
+    <string name="private_person">Magánszemély</string>
+    <string name="company">Vállalkozás</string>
+    <string name="dictation_str">Mennyiség</string>
+    <string name="calculation_str">Végösszeg</string>
+    <string name="archive_str">Archívum</string>
+    <string name="anonym_login">Bejelentkezés vendégként</string>
+    <string name="login_google">Bejelentkezés Google- fiókkal</string>
+    <string name="item_placeholder">Magyar kézműves esküvői dekoráció</string>
+    <string name="item_info_placeholder">Különböző gyönyörű dekorációk</string>
+    <string name="item_favourite">Kosárba</string>
+    <string name="search">Keresés</string>
+    <string name="favourite">Kosár</string>
+    <string name="view">Nézet</string>
+    <string name="settings">Beállítások</string>
+    <string name="log_out">Kijelentkezés</string>
+
+    <string-array name="phone_dropdown">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="menu_item_list">
+        <item>"Rózsaszínű virágok"</item>
+        <item>Lila virágok</item>
+        <item>Fehér virágok</item>
+        <item>Kék virágok</item>
+        <item>Sárga virágok</item>
+        <item>Piros virágok</item>
+    </string-array>
+
+    <string-array name="menu_item_desc">
+        <item>"Rózsaszínű habrózsákból készült menyasszonyi csokor - átmérője 23cm, magassága 28cm"</item>
+        <item>Lila színű habrózsákból készült menyasszonyi csokor - átmérője 23cm, magassága 28cm</item>
+        <item>Fehér színű habrózsákból készült menyasszonyi csokor - átmérője 23cm, magassága 28cm</item>
+        <item>Kék színű habrózsákból készült menyasszonyi csokor - átmérője 23cm, magassága 28cm</item>
+        <item>Sárga színű habrózsákból készült menyasszonyi csokor - átmérője 23cm, magassága 28cm</item>
+        <item>Piros színű habrózsákból készült menyasszonyi csokor - átmérője 23cm, magassága 28cm</item>
+    </string-array>
+
+    <array name="menu_item_rates">
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>2</item>
+        <item>2</item>
+    </array>
+
+    <array name="menu_item_images">
+        <item>@drawable/rozsa</item>
+        <item>@drawable/lila</item>
+        <item>@drawable/feher</item>
+        <item>@drawable/kek</item>
+        <item>@drawable/sarga</item>
+        <item>@drawable/red</item>
+    </array>
+
+    <string-array name="menu_item_place">
+        <item>Rószaszínű virágok</item>
+        <item>Lila virágok</item>
+        <item>Fehér virágok</item>
+        <item>Kék virágok</item>
+        <item>Sárga virágok</item>
+        <item>Piros virágok</item>
+    </string-array>
+
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="login_email">Bejelentkezés e-mail címmel</string>
+    <string name="loading">Loading...</string>
+    <string name="delete">Törlés</string>
+    <string name="wedding_str">Mennyi virágos dekorációt szeretne rendelni?</string>
+    <string name="enter">Elküld</string>
+    <string name="wedding_edit_text">Választott mennyiség</string>
+
+
+</resources>

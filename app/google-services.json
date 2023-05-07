@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260982254192",
+    "project_id": "weddingdress-6cc1f",
+    "storage_bucket": "weddingdress-6cc1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260982254192:android:1b59cea466994e5a71e2b5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260982254192-eei6hvc9uhtav65joe0oorj0u00stqoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "c27c8e07eb54f3d29a8d0c9d2926fb71ae0fe924"
+          }
+        },
+        {
+          "client_id": "260982254192-rpdmhqiag9pv9a0qq550quddde4s8c50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjQIY7sZvMjokDRHf4fuLFPsbQwO7lH2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260982254192-rpdmhqiag9pv9a0qq550quddde4s8c50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
